@@ -1,0 +1,2 @@
+*/2 * * * * pi /home/pi/inkbird/SAST_recorder.py >> /var/log/sast/SAST_recorder.log 2>&1
+#*/5 * * * * pi /home/pi/inkbird/SAST_recorder.py >> /var/log/sast/SAST_recorder.log 2>>&1

@@ -1,0 +1,1 @@
+59 0,4,8,12,16,20 * * * root /home/pi/inkbird/SAST_machineSTAT.py >> /var/log/sast/SAST_machineSTAT.log 2>&1

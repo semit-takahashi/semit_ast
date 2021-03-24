@@ -1,0 +1,1 @@
+@reboot pi /home/pi/inkbird/STAT.py

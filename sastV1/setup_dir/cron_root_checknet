@@ -1,0 +1,1 @@
+59 * * * * root /home/pi/inkbird/check_network.sh >> /var/log/sast/check_network.log 2>>&1
